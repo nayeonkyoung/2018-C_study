@@ -1,0 +1,4 @@
+﻿  bank.cpp
+c:\여름방학_방과후\c++\bank\bank\bank.cpp(146): warning C4102: 'defalut': 참조되지 않은 레이블입니다.
+  Bank.vcxproj -> C:\여름방학_방과후\C++\Bank\Debug\Bank.exe
+  Bank.vcxproj -> C:\여름방학_방과후\C++\Bank\Debug\Bank.pdb (Partial PDB)
